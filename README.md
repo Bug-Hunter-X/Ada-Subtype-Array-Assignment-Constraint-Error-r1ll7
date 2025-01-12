@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming related to array subtypes.  The `bug.ada` file shows code that attempts an invalid assignment to a subtype array resulting in a constraint error. The `bugSolution.ada` file presents a corrected version that handles array assignments correctly and avoids constraint errors.
